@@ -8,3 +8,10 @@ text-align: center;
 img{
     width: 30%;
 }
+.cabecalho{
+    background-color: rgb(43, 226, 217);
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 700px;
+}
