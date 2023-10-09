@@ -9,9 +9,19 @@ img{
     width: 30%;
 }
 .cabecalho{
-    background-color: rgb(43, 226, 217);
+    background-color: rgb(20, 131, 125);
+}
+.logocabecalho{
+    width: 100px;
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 700px;
+    margin-left: 500px;
+}
+.item_lista_cabecalho{
+    color: rgb(0, 0, 0);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 5px;
 }
