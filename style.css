@@ -2,7 +2,7 @@ body{
     background-color: aqua;
 }
 h1{font-size: 60px;
-color: rgb(0, 87, 187);
+color: rgb(156, 14, 14);
 text-align: center;
 }
 img{
@@ -16,7 +16,7 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 500px;
+    margin-left: 700px;
 }
 .item_lista_cabecalho{
     color: rgb(0, 0, 0);
